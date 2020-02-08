@@ -1,4 +1,4 @@
-import { Injectable, ElementRef, Renderer } from '@angular/core';
+import { Injectable, ElementRef, Renderer2 as Renderer } from '@angular/core';
 
 @Injectable()
 export class NgxGalleryHelperService {
